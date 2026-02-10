@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=“utf-8"/>
+        <title></title>
+        <style>
+            div {
+                border: solid black;
+            }
+            hr{
+                border-color: black;
+            }
+        
+ 
+        </style>
+    </head>
+    <body>
+         <div style="background-color: rgb(196, 164, 75);height: 100px;">
+        
+            <H1>The best holidays</H1>
+            
+         </div>
+           <div style="background-color: rgb(124, 158, 164); width:19%; height:600px; float: left;">
+            <h3>My top 5:</h3> 
+            <ul>
+                <li><h4> Christimas</p> </li>
+                   <li><h4> 4th of july</h4></li>
+                <li><h4> St patricks day</h4></li>
+                <li><h4>Thanksgiving</h4></li>
+               <li><h4>Halloween</h4></li>
+
+
+
+
+            </ul>
+           </div>
+         <div style="background-color: rgb(62, 54, 56); width:80%; height: 600px; float: left;">
+            <h2>Christmas</h2>
+            <p>Christmas is a very fun holoday not only for the Christimas spirit but for jesus christ birthday. But the holiday is incredibly fun with many fun memories that surround it.</p>
+            <hr>
+            <h2> 4th of july</h2> 
+            <p> 4th of july is a very uniqe holiday but one of my favorites. Its one if my favorites because fireworks are awesome scary at times but so much fun to watch and launch, its also about the independence of this country and i feel prideful when celebrating it.</p>
+            <hr>
+            <h2>St Patricks day</h2>
+            <p>I love st patricks day because i love the color green so ive always loved the holiday. I also love lepperchans becaus there kinda cool and interesting, its also kinda the start if the spring too me the weather statrts to get nicer and it feels more like spring. So overall one of my favorite holidays ever.</p>
+            <hr>
+            <h2>Thanksgiving</h2>
+            <p>Thanksgiving is a very good hliday not really for the thanksgiving part but for the food and just being able to hang out with family. Now thanksgiving is still a great holiday becaus eit reminds us to be thankful for the things we have and the people we love.</p>
+            <hr>
+            <h2>Halloween</h2>
+            <p>Halloween is a great holiday because of the spooky season and just the halloween in general. Now halloween is more of a party holiday and less of a people holiday but its very fun, haunted houses open scary movies are in season even if i dont like them very much. </p>
+            
+        </div>
+    </body>
+</html>
+<ul></ul>

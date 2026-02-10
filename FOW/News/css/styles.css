@@ -1,0 +1,72 @@
+
+img.img1 {
+    
+    width: 50px;
+}
+button.Subcribe {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  border-color: black;
+  width: 170px;
+  font-size: 2em;
+  float: right;
+}
+
+button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+    float: right;
+}
+
+  .page-layout {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+
+  
+section.middle{
+  text-align: center;
+  
+}
+
+nav {
+  font-weight: bold;
+  
+}
+img.img3{
+  padding: 15px;
+  width: 200px;
+  border-radius: 17%;
+  float: left;
+  
+}
+a {
+  font: 1.5em sans-serif;
+  padding: 17px;
+  color: black;
+}
+
+a.NEW {
+  float: right;
+}
+h3 {
+  font: 1.5em sans-serif ;
+}
+h4 {
+  font: 1.5em sans-serif ;
+}
+h1 {
+  font: 2.5em sans-serif ;
+  font-weight: bold;
+}
+img {
+  border-radius: 5%;
+}
