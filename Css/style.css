@@ -1,0 +1,56 @@
+button.button {
+
+width: 300px;
+height: 38px;
+background-color: #eaeaea;
+border: 2px solid #5a3a1a;
+border-radius: 6px;
+color: #3b2a1a;
+font-size: 14px;
+font-weight: 600;
+cursor: pointer;
+text-align: center;
+line-height: 34px; 
+
+}
+
+
+H1{
+    text-align: center;
+    background-color: saddlebrown;
+    width: 60%;
+    margin: auto;
+}
+h3{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    background-color: saddlebrown;
+}
+p{
+               
+    text-align: center;
+        width: 60%;
+        margin: auto;
+    background-color: sandybrown;
+    
+}
+div{
+    background-color: sandybrown;
+    width: 60%;
+    margin: auto;
+
+    
+}
+hr{
+width: 60%;
+margin: auto;
+border-radius: 10px;
+}
+section {
+    text-align: center;
+    background-color: rgba(22, 87, 17, 0.476);
+    width: 60%;
+    margin: auto;
+}
+

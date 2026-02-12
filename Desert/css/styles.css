@@ -1,0 +1,40 @@
+
+                H1{
+                    text-align: center;
+                    background-color: saddlebrown;
+                    width: 60%;
+                    margin: auto;
+                    
+                }
+                h3{
+                width: 60%;
+                margin: auto;
+                text-align: center;
+                background-color: saddlebrown;
+            }
+            img{
+                width: 100%;
+
+            }
+           
+            p{
+               
+                text-align: center;
+                    width: 60%;
+                    margin: auto;
+                background-color: sandybrown;
+                
+            }
+            div{
+                background-color: sandybrown;
+                width: 60%;
+                margin: auto;
+            
+                
+            }
+           hr{
+            width: 60%;
+            margin: auto;
+            border-radius: 10px;
+           }
+            
