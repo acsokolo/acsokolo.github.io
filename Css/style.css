@@ -1,19 +1,8 @@
-button.button {
 
-width: 300px;
-height: 38px;
-background-color: #eaeaea;
-border: 2px solid #5a3a1a;
-border-radius: 6px;
-color: #3b2a1a;
-font-size: 14px;
-font-weight: 600;
-cursor: pointer;
-text-align: center;
-line-height: 34px; 
-
+a :hover{
+    transform: scale(1.023) ;
+    box-shadow: 3px 6px 6px 0 rgba(0,0,0,.11);
 }
-
 
 H1{
     text-align: center;
@@ -54,3 +43,17 @@ section {
     margin: auto;
 }
 
+
+
+
+
+a.btn {
+    width: 400px;
+    height: 150px;
+    background-color: #ddd;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
